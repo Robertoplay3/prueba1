@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+#define Ktor 50
+#define Kfor 25
+
+typedef char nombre[Kfor];
+
+struct Prote{
+  nombre n;
+  int edad;
+};
+int main(){
+Prote der;
+
+
+
+
+return 0;
+}
